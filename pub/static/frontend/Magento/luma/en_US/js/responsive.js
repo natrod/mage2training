@@ -1,0 +1,1 @@
+/srv/www/magento2/vendor/magento/theme-frontend-blank/web/js/responsive.js
